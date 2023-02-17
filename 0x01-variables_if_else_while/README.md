@@ -8,3 +8,6 @@ Numbersz
 Smile in the mirror
 Hexadecimal
 Patience and persistence
+Inventing a combinations of brains and materials
+The success of combination in business
+Software is eating the world

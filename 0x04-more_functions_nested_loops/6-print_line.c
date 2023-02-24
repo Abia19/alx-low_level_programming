@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * print_line - Drraw a line 
+ * print_line - Draw lines
  * @n: the number of lines
  * Return: empty
  */
-
 void print_line(int n)
 {
 	int a;
@@ -23,4 +22,3 @@ void print_line(int n)
 		_putchar('\n');
 	}
 }
-
